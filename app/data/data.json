@@ -1,0 +1,18 @@
+{
+    "tasks": [
+        {
+            "id": 0,
+            "title": "comprar la despensa",
+            "desc": "comprar leche y huevos",
+            "status": "Pending",
+            "timestamp": ""
+        },
+        {
+            "id": 2,
+            "title": "Hacer la tarea",
+            "description": "Terminar el cuadro comparativo, etc",
+            "status": "Pending",
+            "timestamp": "2025-09-19"
+        }
+    ]
+}
